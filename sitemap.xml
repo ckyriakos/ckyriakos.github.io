@@ -8,6 +8,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://ckyriakos.github.io/career/aihackathon/aihackathon/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://ckyriakos.github.io/fashion/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
